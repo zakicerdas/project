@@ -1,0 +1,2 @@
+(8ea825f) (HEAD -> main) add new file CSS (fd25335) add portfolio (2473267) add homepage HTML
+jumlah masing masing file .html dan .css:1
